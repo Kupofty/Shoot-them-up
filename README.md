@@ -1,2 +1,2 @@
 # Shoot-them-up
- C++ mini-game
+The War Of Geometry Shapes - C++ mini-game
